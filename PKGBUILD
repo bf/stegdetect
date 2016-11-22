@@ -11,7 +11,7 @@ arch=('i686' 'x86_64')
 url="http://www.outguess.org/"
 license=('GPL')
 depends=('gtk' 'libevent')
-source=("http://www.outguess.org/$pkgname-$pkgver.tar.gz"
+source=("https://fossies.org/linux/privat/old/$pkgname-$pkgver.tar.gz"
         "$pkgname-unified.patch")
 md5sums=('850a3551b5c450b9f450a919ad021767'
          '25ab094e8cbd457877bd915af12bffa8')
